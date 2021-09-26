@@ -1,0 +1,95 @@
+.merge 
+{
+  background-color:#5a2b23;
+  border-style: groove;
+  width: auto;
+  height: auto; 
+  padding: 2px 2px;
+  background-image: url(img/img5.jpg);
+}
+
+.header 
+{
+  width: 800px;
+  height: 25px;  
+}
+
+ul 
+{
+  background-color:#101010;
+  margin: 4.5px;
+  padding: 0;
+  overflow:hidden;
+  list-style-type:none;
+}
+
+li a
+ {
+  display: block;
+  color:#f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+}
+
+li
+ {
+  float:left;
+}
+
+li a:hover {
+  background-color:#8d9946;
+}
+
+
+.nextpart {
+  width: auto;
+  height: auto;
+  border-style:groove;
+  margin-top: 5px;
+
+}
+
+.image {
+  width: 900px;
+  height: 500px;
+  border-style: none;
+  background-image: url(img/img2.jpg);
+  display: inline-block;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 4px 4px inset;
+  border-color: rgb(48, 48, 48);
+  
+}
+
+.about 
+{
+  width: 370px;
+  height: 487px;
+  border-style: groove;
+  float: right;
+  background-color: rgb(197, 173, 36);
+  margin-right: 40px;
+
+  list-style-type: square;
+  list-style-position: outside;
+  list-style-image: none;
+}
+
+.Aim
+ {
+  width: 890px;
+  height: px;
+  margin-top: 5px;
+  border-style: double;
+  border-color: cornsilk;
+}
+
+.second
+{
+  width: 890px;
+  height: px;
+  margin-top: 5px;
+  border-style: double;
+  border-color: cornsilk;
+}
